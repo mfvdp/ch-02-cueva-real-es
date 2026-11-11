@@ -1,0 +1,49 @@
+{
+    "name": "cueva-real",
+    "description": "Una aventura en una mazmorra para el Calliope mini 3 con GameKit: baja con el Calliope Hacker, piso a piso, a una mazmorra que se construye de nuevo en cada partida. Encuentra el camino con la antorcha y el mapa, recoge tesoros, llaves y corazones, haz desaparecer a los enemigos con bolas de fuego y recupera la corona robada.",
+    "license": "MIT",
+    "dependencies": {
+        "device": "*",
+        "settings": "*",
+        "hw---n3": "*"
+    },
+    "files": [
+        "textos.ts",
+        "menus.ts",
+        "ajustes.ts",
+        "graficos.ts",
+        "tipos.ts",
+        "enemigos.ts",
+        "estado.ts",
+        "ayudas.ts",
+        "sonido.ts",
+        "cine.ts",
+        "intro.ts",
+        "tutorial.ts",
+        "epilogo.ts",
+        "luz.ts",
+        "mazmorra.ts",
+        "objetos.ts",
+        "heroe.ts",
+        "pantalla-titulo.ts",
+        "piso.ts",
+        "eventos.ts",
+        "marcador.ts",
+        "main.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "assets.json",
+        "README.md"
+    ],
+    "targetVersions": {
+        "branch": "master",
+        "tag": "v4.2.1",
+        "target": "4.2.1",
+        "pxt": "13.2.1"
+    },
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000", "#ffffff", "#ff2121", "#ff93c4", "#ff8135", "#fff609", "#249ca3", "#78dc52",
+        "#003fad", "#87f2ff", "#8e2ec4", "#a4839f", "#5c406c", "#e5cdc4", "#91463d", "#000000"
+    ]
+}
